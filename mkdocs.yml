@@ -1,0 +1,10 @@
+site_name: Vividas DRM Docs
+
+theme:
+  name: 'material'
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Core: core.md
+    - Architecture: architecture.md
