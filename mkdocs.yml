@@ -1,7 +1,7 @@
 site_name: Vividas DRM Docs
 
 theme:
-  name: 'material'
+  name: 'readthedocs'
 
 nav:
     - Home: index.md
